@@ -1,0 +1,23 @@
+
+.colorNav{
+    background-color: #27eaa9;
+}
+
+.margen{
+    margin-left: 10px;
+}
+
+.botonCarrito{
+    margin-left: 450px;
+    height: 50px;
+    width: 50px;
+}
+
+.centrado{
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    margin-left: 450px;
+}
